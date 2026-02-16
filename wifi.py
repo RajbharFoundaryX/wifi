@@ -8,7 +8,7 @@ import os
 # Disclaimer for ethical use
 # This program is designed for educational purposes only. Ensure you have explicit consent
 # to capture network traffic before running it. Captured data should be used responsibly.
-# Developed by rupesh rajbhar
+# Developed by Rupesh Rajbhar
 
 def capture_login_info():
     # Prompt user for input
@@ -71,4 +71,5 @@ def capture_login_info():
 
 # Main execution block
 if __name__ == "__main__":
+
     capture_login_info()
